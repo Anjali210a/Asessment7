@@ -69,6 +69,8 @@ USE movie_db;
 ```INSERT INTO reservations VALUES```
 ('resv123', 'john_doe', 'Avengers Endgame', '2025-07-04 18:00:00', '12,13,14', true),
 ('anjali_01', 'anjali_01', 'Oppenheimer', '2025-07-07 20:30:00', '21,22', true);
+
+---
 📌 Notes
 - You can use JDBC or JPA for database access.
 
